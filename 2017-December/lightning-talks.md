@@ -4,4 +4,5 @@
 Name | Topic
 --- | --- 
 Patrick Steger | 5-Minute Serverless Blitz
-Your name here | Your topic here
+Kevin Feasel | WTF Visualizations
+Your Name | Your Talk
